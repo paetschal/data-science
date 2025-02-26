@@ -88,7 +88,7 @@ The Data Science curriculum assumes the student has taken [high school math](htt
 - [Machine Learning/Data Mining](#machine-learningdata-mining)
 - [Final project](#final-project)
 
-### Introduction to Data Science ✅
+### Introduction to Data Science 
 
 [What is Data Science](https://www.coursera.org/learn/what-is-datascience)
 
